@@ -305,11 +305,6 @@ option {
     background-color: var(--background-tinted-highlight);
 }
 
-/* bottom bar background */
-.main-nowPlayingBar-nowPlayingBar {
-    background-color: rgba(var(--spice-rgb-shadow), 0.5);
-}
-
 /* Topbar text padding */
 .main-entityHeader-topbarTitle {
     padding-left: 8px;
